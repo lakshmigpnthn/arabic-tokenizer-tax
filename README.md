@@ -8,7 +8,7 @@ A runnable companion to the article *The Tokenizer Tax: The Hidden Cost of Arabi
 
 ## Try it now (no install)
 
-[![Open In Colab](https://colab.research.google.com/github/lakshmigpnthn/arabic-tokenizer-tax/blob/main/notebooks/arabic_tokenizer_tax.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/lakshmigpnthn/arabic-tokenizer-tax/blob/main/notebooks/arabic_tokenizer_tax.ipynb)]
 
 Click the badge above, then **Runtime → Run all**. First run takes about 60–90 seconds to install dependencies. After that you will see:
 
