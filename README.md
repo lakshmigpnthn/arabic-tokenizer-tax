@@ -8,11 +8,11 @@ A runnable companion to the article *The Tokenizer Tax: The Hidden Cost of Arabi
 
 ## Try it now (no install)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-HANDLE/arabic-tokenizer-tax/blob/main/notebooks/arabic_tokenizer_tax.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/lakshmigpnthn/arabic-tokenizer-tax/blob/main/notebooks/arabic_tokenizer_tax.ipynb)
 
 Click the badge above, then **Runtime → Run all**. First run takes about 60–90 seconds to install dependencies. After that you will see:
 
-1. **The token-count gap** across four tokenizers (`cl100k_base`, `o200k_base`, Qwen 2.5, Llama 3) on a realistic AML review document in English vs Arabic.
+1. **The token-count gap** across four tokenizers (`cl100k_base`, `o200k_base`, Qwen 2.5, Llama 3, Jais) on a realistic AML review document in English vs Arabic.
 2. **The projected monthly cost** for a UAE bank running 500,000 alerts a month, in both languages, across GPT-4o, Claude, and Gemini.
 3. **A cell where you can paste your own text** and run the same comparison on your corpus.
 
